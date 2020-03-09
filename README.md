@@ -1,5 +1,5 @@
 # Foldback-protection
-Utiliza diversas ecuaciones que permiten elegir la mejor combinación de resistencias para realizar la protección foldback de una fuente de tensión.
+Utiliza diversas ecuaciones que permiten elegir la mejor combinación de resistencias para realizar la protección foldback de una fuente de tensión dependiendo de ciertos parámetros.
 
 ## Descarga
 ```sh
